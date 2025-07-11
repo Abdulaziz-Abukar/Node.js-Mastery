@@ -1,4 +1,4 @@
-lastId = 3;
+lastId = 2;
 function idGenerator() {
   lastId++;
 
